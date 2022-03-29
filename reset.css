@@ -15,11 +15,9 @@ span {
 	user-select: none;
 }
 html, body {
-	background: black;
 	height: 100%;
 }
 body {
-	background: black;
 	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
 }
